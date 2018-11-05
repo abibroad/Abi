@@ -1,0 +1,12 @@
+ul.nav a
+ {
+   background-color: red;
+   color: white;
+   text-decoration: underline;
+}
+
+div id='about_blue'
+p
+{
+  color: black;
+ }
